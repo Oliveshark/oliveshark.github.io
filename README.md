@@ -1,5 +1,3 @@
-## oliveshark.com
-
 One man, essentially no mission...
 ----------------------------------
 
